@@ -67,7 +67,7 @@ st.sidebar.info(
 # About
 st.sidebar.header("About")
 st.sidebar.info(
-    "This app uses Langchain with Ollama to generate personalized emails "
+    "This app uses Langchain with Huggingface to generate personalized emails "
     "based on the provided information. It demonstrates how Large Language Models "
     "can be used for dynamic content creation."
 )
